@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1502315436 source:d:\cpp\spectrasub\spectrasub - new\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<stdio.h>
+	<fcntl.h>
+	<io.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+
